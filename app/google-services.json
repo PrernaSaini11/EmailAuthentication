@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268900425854",
+    "firebase_url": "https://mail-6447b.firebaseio.com",
+    "project_id": "mail-6447b",
+    "storage_bucket": "mail-6447b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268900425854:android:03ab94ecca35f718",
+        "android_client_info": {
+          "package_name": "com.prerna.saini.email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268900425854-11hqj0tjr65ijdop3e81q7236sn122cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_XI0ehop6DaJ8bOkJY4R40cVS3fHpQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
